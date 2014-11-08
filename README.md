@@ -1,4 +1,4 @@
 st-ro
 =====
 
-traiment iùage stéréotype avec onpencv
+traitement d'image stéréotype avec onpencv
